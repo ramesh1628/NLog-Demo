@@ -1,0 +1,12 @@
+2017/11/27 11:10:19.374 Sample trace message Trace   
+2017/11/27 11:10:19.441 Sample debug message Debug   
+2017/11/27 11:10:19.441 Sample informational message Info   
+2017/11/27 11:10:22.116 Sample trace message Trace   
+2017/11/27 11:10:22.124 Sample debug message Debug   
+2017/11/27 11:10:22.124 Sample informational message Info   
+2017/11/27 11:11:26.765 Sample trace message Trace http://localhost/  
+2017/11/27 11:11:26.823 Sample debug message Debug http://localhost/  
+2017/11/27 11:11:26.827 Sample informational message Info http://localhost/  
+2017/11/27 11:12:30.327 Sample trace message Trace 0  
+2017/11/27 11:12:30.409 Sample debug message Debug 0  
+2017/11/27 11:12:30.422 Sample informational message Info 0  
