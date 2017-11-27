@@ -10,3 +10,6 @@
 2017/11/27 11:12:30.327 Sample trace message Trace 0  
 2017/11/27 11:12:30.409 Sample debug message Debug 0  
 2017/11/27 11:12:30.422 Sample informational message Info 0  
+2017/11/27 12:09:41.451 Sample trace message Trace 0  
+2017/11/27 12:09:41.501 Sample debug message Debug 0  
+2017/11/27 12:09:41.501 Sample informational message Info 0  

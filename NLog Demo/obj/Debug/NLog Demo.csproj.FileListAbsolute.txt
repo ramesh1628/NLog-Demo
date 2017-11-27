@@ -45,3 +45,50 @@ C:\Users\rramaswamy\Desktop\NLog Demo\NLog Demo\NLog Demo\obj\Debug\NLog Demo.dl
 C:\Users\rramaswamy\Desktop\NLog Demo\NLog Demo\NLog Demo\obj\Debug\NLog Demo.pdb
 C:\Users\rramaswamy\Desktop\NLog Demo\NLog Demo\NLog Demo\bin\NLog.Web.dll
 C:\Users\rramaswamy\Desktop\NLog Demo\NLog Demo\NLog Demo\bin\NLog.Web.xml
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\ApplicationInsights.config
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\NLog.config
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\NLog Demo.dll.config
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\NLog Demo.dll
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\NLog Demo.pdb
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\Antlr3.Runtime.dll
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\Microsoft.AI.Web.dll
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\Microsoft.ApplicationInsights.dll
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\Newtonsoft.Json.dll
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\NLog.dll
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\NLog.Web.dll
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\System.Web.Helpers.dll
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\System.Web.Mvc.dll
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\System.Web.Optimization.dll
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\System.Web.Razor.dll
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\System.Web.WebPages.dll
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\System.Web.WebPages.Razor.dll
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\WebGrease.dll
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\NLog.xml
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\NLog.Web.xml
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\System.Web.Helpers.xml
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\System.Web.Mvc.xml
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\System.Web.Optimization.xml
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\System.Web.Razor.xml
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\System.Web.WebPages.xml
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\System.Web.WebPages.Razor.xml
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\Antlr3.Runtime.pdb
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\Newtonsoft.Json.xml
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\Microsoft.ApplicationInsights.xml
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\bin\Microsoft.AI.Web.xml
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\obj\Debug\NLog Demo.csprojResolveAssemblyReference.cache
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\obj\Debug\NLog Demo.csproj.CoreCompileInputs.cache
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\obj\Debug\NLog Demo.dll
+C:\Users\rramaswamy\Desktop\NLog Demo\NLog-Demo\NLog Demo\obj\Debug\NLog Demo.pdb
