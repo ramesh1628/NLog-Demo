@@ -6,7 +6,7 @@ using System.Web.Mvc;
 using NLog;
 using NLog.Web;
 
-
+//test
 namespace NLog_Demo.Controllers
 {
     public class HomeController : Controller
