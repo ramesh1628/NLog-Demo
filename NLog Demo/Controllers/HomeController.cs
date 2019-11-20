@@ -6,7 +6,7 @@ using System.Web.Mvc;
 using NLog;
 using NLog.Web;
 
-//this is master branch
+//this is master branch from git
 namespace NLog_Demo.Controllers
 {
     public class HomeController : Controller
