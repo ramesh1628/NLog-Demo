@@ -6,7 +6,7 @@ using System.Web.Mvc;
 using NLog;
 using NLog.Web;
 
-//test
+//this is master branch
 namespace NLog_Demo.Controllers
 {
     public class HomeController : Controller
